@@ -16,4 +16,4 @@ def cost(x, y):
     else:
         print('Похоже, данные введены некорректно.')
 
-print(cost(code, time))
+cost(code, time)
